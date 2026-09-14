@@ -376,7 +376,7 @@ Si no sabeu quines tecnologies escollir, podeu utilitzar les que treballareu a c
 | Web                 | HTML + CSS + JavaScript  |
 | Escriptori          | JavaFX                   |
 | Backend/API         | Node.js + Express        |
-| Base de dades       | MySQL                    |
+| Base de dades       | MySQL / PostgreSQL       |
 | Control de versions | Git + GitHub             |
 
 **No és obligatori utilitzar aquesta combinació**
